@@ -1,6 +1,6 @@
 # Ticket Booking System
 
-A resume-grade full-stack ticket booking platform for movies and concerts featuring interactive real-time seat layouts, TTL-based optimistic seat locks, automated waitlists, and secure QR-code ticket delivery by email.
+A full-stack ticket booking platform for movies and concerts featuring interactive real-time seat layouts, TTL-based optimistic seat locks, automated waitlists, and secure QR-code ticket delivery by email.
 
 ---
 
